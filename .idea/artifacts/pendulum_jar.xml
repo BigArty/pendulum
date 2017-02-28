@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="pendulum:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/pendulum_jar</output-path>
+    <root id="archive" name="pendulum.jar">
+      <element id="module-output" name="pendulum" />
+    </root>
+  </artifact>
+</component>
